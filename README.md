@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# WEEK 7 PROJECT
+
+## Mohammed Tanveer
+
+## For my week 7 project i have designed a homepage of Flipkart.com
+
+## I choosed Flipkart.com because its one of the most visited website in India 
+
+![Image ](https://i.ibb.co/kDhXzmZ/screenshot.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
